@@ -1,2 +1,2 @@
-# Program-Basics-SoftUni
+# Program-Basics-FirstStepsInCoding-SoftUni
 JavaScript
